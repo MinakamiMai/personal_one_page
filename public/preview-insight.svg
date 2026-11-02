@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="数据洞察控制台界面预览">
+  <rect width="1200" height="750" fill="#F5F2EC"/>
+  <rect width="1200" height="88" fill="#FFFDF8"/>
+  <path d="M0 88h1200" stroke="#DCD5C8" stroke-width="1.5"/>
+  <rect x="48" y="36" width="132" height="16" rx="8" fill="#1A1713" opacity="0.85"/>
+  <rect x="1000" y="28" width="152" height="32" rx="16" fill="#1A1713" opacity="0.06"/>
+
+  <!-- 指标卡 -->
+  <g>
+    <rect x="48" y="128" width="352" height="112" rx="14" fill="#FFFDF8" stroke="#DCD5C8" stroke-width="1.5"/>
+    <rect x="72" y="152" width="64" height="9" rx="4.5" fill="#B9B0A0"/>
+    <rect x="72" y="178" width="124" height="26" rx="6" fill="#1A1713" opacity="0.85"/>
+    <rect x="72" y="214" width="44" height="8" rx="4" fill="#CC3A1C"/>
+
+    <rect x="424" y="128" width="352" height="112" rx="14" fill="#FFFDF8" stroke="#DCD5C8" stroke-width="1.5"/>
+    <rect x="448" y="152" width="88" height="9" rx="4.5" fill="#B9B0A0"/>
+    <rect x="448" y="178" width="104" height="26" rx="6" fill="#1A1713" opacity="0.85"/>
+    <rect x="448" y="214" width="58" height="8" rx="4" fill="#B9B0A0"/>
+
+    <rect x="800" y="128" width="352" height="112" rx="14" fill="#CC3A1C"/>
+    <rect x="824" y="152" width="72" height="9" rx="4.5" fill="#FFFDF8" opacity="0.6"/>
+    <rect x="824" y="178" width="132" height="26" rx="6" fill="#FFFDF8" opacity="0.95"/>
+    <rect x="824" y="214" width="48" height="8" rx="4" fill="#FFFDF8" opacity="0.55"/>
+  </g>
+
+  <!-- 折线图 -->
+  <rect x="48" y="272" width="1104" height="430" rx="14" fill="#FFFDF8" stroke="#DCD5C8" stroke-width="1.5"/>
+  <rect x="80" y="304" width="120" height="10" rx="5" fill="#1A1713" opacity="0.7"/>
+  <g stroke="#EDE7DB" stroke-width="1.5">
+    <path d="M80 396h1032M80 464h1032M80 532h1032M80 600h1032M80 664h1032"/>
+  </g>
+  <path d="M80 620 L232 566 L384 592 L536 476 L688 512 L840 404 L992 446 L1112 372 L1112 664 L80 664 Z" fill="#CC3A1C" fill-opacity="0.08"/>
+  <path d="M80 620 L232 566 L384 592 L536 476 L688 512 L840 404 L992 446 L1112 372" fill="none" stroke="#CC3A1C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#FFFDF8" stroke="#CC3A1C" stroke-width="3">
+    <circle cx="536" cy="476" r="7"/>
+    <circle cx="840" cy="404" r="7"/>
+    <circle cx="1112" cy="372" r="7"/>
+  </g>
+  <g fill="#CFC7B8">
+    <rect x="80" y="690" width="34" height="6" rx="3"/>
+    <rect x="240" y="690" width="34" height="6" rx="3"/>
+    <rect x="400" y="690" width="34" height="6" rx="3"/>
+    <rect x="560" y="690" width="34" height="6" rx="3"/>
+    <rect x="720" y="690" width="34" height="6" rx="3"/>
+    <rect x="880" y="690" width="34" height="6" rx="3"/>
+    <rect x="1040" y="690" width="72" height="6" rx="3"/>
+  </g>
+</svg>
