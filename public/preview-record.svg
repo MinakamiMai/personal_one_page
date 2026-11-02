@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="移动端健康档案应用界面预览">
+  <rect width="1200" height="750" fill="#F5F2EC"/>
+
+  <!-- 手机 1 -->
+  <g>
+    <rect x="180" y="128" width="240" height="494" rx="30" fill="#FFFDF8" stroke="#DCD5C8" stroke-width="1.5"/>
+    <rect x="266" y="146" width="68" height="10" rx="5" fill="#E7E0D3"/>
+    <rect x="204" y="186" width="104" height="14" rx="7" fill="#1A1713" opacity="0.85"/>
+    <rect x="204" y="212" width="152" height="8" rx="4" fill="#CFC7B8"/>
+    <rect x="204" y="248" width="192" height="76" rx="14" fill="#CC3A1C"/>
+    <rect x="220" y="268" width="86" height="9" rx="4.5" fill="#FFFDF8" opacity="0.9"/>
+    <rect x="220" y="288" width="130" height="8" rx="4" fill="#FFFDF8" opacity="0.5"/>
+    <g fill="#F5F2EC">
+      <rect x="204" y="344" width="192" height="56" rx="12"/>
+      <rect x="204" y="412" width="192" height="56" rx="12"/>
+      <rect x="204" y="480" width="192" height="56" rx="12"/>
+    </g>
+    <g fill="#CFC7B8">
+      <rect x="220" y="362" width="96" height="8" rx="4"/>
+      <rect x="220" y="430" width="120" height="8" rx="4"/>
+      <rect x="220" y="498" width="76" height="8" rx="4"/>
+    </g>
+    <rect x="204" y="562" width="192" height="36" rx="18" fill="#1A1713"/>
+  </g>
+
+  <!-- 手机 2（主视口，上移） -->
+  <g>
+    <rect x="480" y="96" width="240" height="558" rx="32" fill="#FFFDF8" stroke="#DCD5C8" stroke-width="1.5"/>
+    <rect x="566" y="114" width="68" height="10" rx="5" fill="#E7E0D3"/>
+    <rect x="504" y="156" width="128" height="16" rx="8" fill="#1A1713" opacity="0.85"/>
+    <rect x="504" y="184" width="88" height="8" rx="4" fill="#CFC7B8"/>
+    <rect x="504" y="216" width="192" height="112" rx="16" fill="#F5F2EC" stroke="#DCD5C8" stroke-width="1.5"/>
+    <rect x="522" y="238" width="72" height="9" rx="4.5" fill="#B9B0A0"/>
+    <rect x="522" y="262" width="118" height="22" rx="6" fill="#1A1713" opacity="0.8"/>
+    <rect x="522" y="298" width="56" height="16" rx="8" fill="#CC3A1C"/>
+    <g fill="#F5F2EC">
+      <rect x="504" y="348" width="192" height="60" rx="12"/>
+      <rect x="504" y="420" width="192" height="60" rx="12"/>
+      <rect x="504" y="492" width="192" height="60" rx="12"/>
+    </g>
+    <g fill="#CFC7B8">
+      <rect x="520" y="368" width="104" height="8" rx="4"/>
+      <rect x="520" y="440" width="82" height="8" rx="4"/>
+      <rect x="520" y="512" width="118" height="8" rx="4"/>
+    </g>
+    <g fill="#1A1713" opacity="0.75">
+      <circle cx="520" cy="580" r="10"/>
+      <circle cx="576" cy="580" r="10"/>
+      <circle cx="632" cy="580" r="10"/>
+    </g>
+    <circle cx="688" cy="580" r="10" fill="#CC3A1C"/>
+  </g>
+
+  <!-- 手机 3 -->
+  <g>
+    <rect x="780" y="128" width="240" height="494" rx="30" fill="#FFFDF8" stroke="#DCD5C8" stroke-width="1.5"/>
+    <rect x="866" y="146" width="68" height="10" rx="5" fill="#E7E0D3"/>
+    <rect x="804" y="186" width="84" height="14" rx="7" fill="#1A1713" opacity="0.85"/>
+    <g fill="#F5F2EC">
+      <rect x="804" y="228" width="192" height="74" rx="14"/>
+      <rect x="804" y="318" width="192" height="74" rx="14"/>
+      <rect x="804" y="408" width="192" height="74" rx="14"/>
+    </g>
+    <g fill="#CFC7B8">
+      <rect x="822" y="250" width="70" height="9" rx="4.5"/>
+      <rect x="822" y="272" width="112" height="8" rx="4"/>
+      <rect x="822" y="340" width="94" height="9" rx="4.5"/>
+      <rect x="822" y="362" width="76" height="8" rx="4"/>
+      <rect x="822" y="430" width="60" height="9" rx="4.5"/>
+      <rect x="822" y="452" width="120" height="8" rx="4"/>
+    </g>
+    <rect x="804" y="504" width="192" height="42" rx="21" fill="#FFFDF8" stroke="#CC3A1C" stroke-width="2"/>
+    <rect x="850" y="520" width="76" height="9" rx="4.5" fill="#CC3A1C"/>
+  </g>
+</svg>
